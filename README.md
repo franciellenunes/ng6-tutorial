@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ng6
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
@@ -26,7 +25,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-=======
-# ng6-tutorial
-Projeto criado para estudo de um curso intensivo de Angular 6 do coursetro.
->>>>>>> 44d0df1cd9360d23b5b5534f918625b4b2639b71
